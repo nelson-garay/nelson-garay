@@ -1,6 +1,7 @@
 👋 Hola, soy Nelson Garay Curi
 
 ────────────────────────────
+
 🎓 Estudiante de Ingeniería de Sistemas
 
 Soy estudiante de Ingeniería de Sistemas, interesado en crear soluciones tecnológicas mediante el desarrollo
@@ -16,6 +17,7 @@ de especializarme progresivamente en el área de desarrollo.
 🛠️ Skills
 
 ────────────────────────────
+
 Lenguajes
 🐍 Python
 ☕ Java
