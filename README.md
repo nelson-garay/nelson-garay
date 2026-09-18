@@ -1,13 +1,13 @@
 👋 Hola, soy **Nelson Garay Curi**
 
 Soy estudiante de Ingeniería de Sistemas, interesado en crear soluciones tecnológicas mediante el desarrollo
-de aplicaciones y sistemas.
-
+de aplicaciones y sistemas. 
 Actualmente estoy fortaleciendo mis conocimientos en desarrollo
 Backend, desarrollo móvil e Inteligencia Artificial, con el objetivo
 de especializarme progresivamente en el área de desarrollo.
 
 📍 Ayacucho, Perú
+
 🎓 Ingeniería de Sistemas
 
 **🛠️ Skills**
@@ -15,9 +15,9 @@ de especializarme progresivamente en el área de desarrollo.
 
 **Lenguajes**
 
-🐍 Python
-☕ Java
-🗄️ SQL
+🐍 Python 
+☕ Java 
+🗄️ SQL 
 
 **Bases de datos**
 
@@ -25,6 +25,6 @@ de especializarme progresivamente en el área de desarrollo.
 
 **Áreas**
 
-⚙️ Backend
-📱 Desarrollo móvil
+⚙️ Backend 
+📱 Desarrollo móvil 
 🤖 Inteligencia Artificial
