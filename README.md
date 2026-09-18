@@ -1,4 +1,4 @@
-👋 Hola, soy **Nelson Garay Curi**
+<img width="187" height="148" alt="image" src="https://github.com/user-attachments/assets/a2facd5f-7e4c-4c90-905d-38d60f6a41df" />👋 Hola, soy **Nelson Garay Curi**
 
 Soy estudiante de Ingeniería de Sistemas, interesado en crear soluciones tecnológicas mediante el desarrollo
 de aplicaciones y sistemas. 
@@ -15,8 +15,7 @@ de especializarme progresivamente en el área de desarrollo.
 
 **Lenguajes**
 
-<img width="187" height="148" alt="image" src="https://github.com/user-attachments/assets/9ed22c1c-dcd6-487c-b4df-5d607982f02a" />
- Python 
+🐍 Python 
 ☕ Java 
 🗄️ SQL 
 
