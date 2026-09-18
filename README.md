@@ -1,9 +1,5 @@
 👋 Hola, soy Nelson Garay Curi
 
-────────────────────────────
-
-🎓 Estudiante de Ingeniería de Sistemas
-
 Soy estudiante de Ingeniería de Sistemas, interesado en crear soluciones tecnológicas mediante el desarrollo
 de aplicaciones y sistemas.
 
