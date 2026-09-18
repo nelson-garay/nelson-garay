@@ -13,17 +13,17 @@ de especializarme progresivamente en el área de desarrollo.
 🛠️ **Skills**
 -----------------------------------
 
-Lenguajes
+**Lenguajes**
 
 🐍 Python
 ☕ Java
 🗄️ SQL
 
-Bases de datos
+**Bases de datos**
 
 🐘 PostgreSQL
 
-Áreas
+**Áreas**
 
 ⚙️ Backend
 📱 Desarrollo móvil
