@@ -10,7 +10,7 @@ de especializarme progresivamente en el área de desarrollo.
 📍 Ayacucho, Perú
 🎓 Ingeniería de Sistemas
 
-🛠️ **Skills**
+**🛠️ Skills**
 -----------------------------------
 
 **Lenguajes**
