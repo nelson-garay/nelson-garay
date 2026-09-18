@@ -15,7 +15,8 @@ de especializarme progresivamente en el área de desarrollo.
 
 **Lenguajes**
 
-🐍 Python 
+<img width="187" height="148" alt="image" src="https://github.com/user-attachments/assets/9ed22c1c-dcd6-487c-b4df-5d607982f02a" />
+ Python 
 ☕ Java 
 🗄️ SQL 
 
