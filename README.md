@@ -19,14 +19,17 @@ de especializarme progresivamente en el área de desarrollo.
 ────────────────────────────
 
 Lenguajes
+
 🐍 Python
 ☕ Java
 🗄️ SQL
 
 Bases de datos
+
 🐘 PostgreSQL
 
 Áreas
+
 ⚙️ Backend
 📱 Desarrollo móvil
 🤖 Inteligencia Artificial
