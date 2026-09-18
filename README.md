@@ -1,4 +1,4 @@
-<img width="187" height="148" alt="image" src="https://github.com/user-attachments/assets/a2facd5f-7e4c-4c90-905d-38d60f6a41df" />👋 Hola, soy **Nelson Garay Curi**
+👋 Hola, soy **Nelson Garay Curi**
 
 Soy estudiante de Ingeniería de Sistemas, interesado en crear soluciones tecnológicas mediante el desarrollo
 de aplicaciones y sistemas. 
